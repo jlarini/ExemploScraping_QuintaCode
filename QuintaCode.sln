@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBlendForm", "BBlendForm\BBlendForm.csproj", "{32344D11-B30B-453E-8210-459CB6CF5C27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraping", "..\Scraping-Toolkit\src\Framework4.6.1\Scraping\Scraping.csproj", "{D9228A00-4602-4C28-97D2-D7DE76BB1380}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
